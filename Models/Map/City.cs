@@ -9,7 +9,7 @@ namespace TicketToRide.Models.Map
     class City
     {
         public string Name { get; set; }
-        public int MyProperty { get; set; }
+        public List<Link> Links { get; set; }
 
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TicketToRide.Models
+namespace TicketToRide.Models.Cards
 {
-    class RouteCard
+    class RouteCard : Card
     {
     }
 }

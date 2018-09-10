@@ -69,6 +69,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Cards\Card.cs" />
+    <Compile Include="Models\Cards\RouteCard.cs" />
+    <Compile Include="Models\Cards\TrainCard.cs" />
+    <Compile Include="Models\Game.cs" />
+    <Compile Include="Models\Map\City.cs" />
+    <Compile Include="Models\Map\Link.cs" />
+    <Compile Include="Models\Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
