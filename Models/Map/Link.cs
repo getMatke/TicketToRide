@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TicketToRide.Models.Map
 {
     //Available link colors
-    enum Color { Red, Green, Blue, Yellow, Black, White, Orange, Pink, Jolly, None }
+    enum Color { Red, Green, Blue, Yellow, Black, White, Orange, Pink, None }
 
     class Link
     {
